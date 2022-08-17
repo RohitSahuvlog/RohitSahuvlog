@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsahuvlog" alt="rohitsahuvlog" /></a> </p>
 
-- 🔭 I’m currently working on [Naukri Clone](https://naukriclone98.vercel.app/)
-
 - 🌱 I’m currently learning **MERN Stacks and Data Structures & Algorithms.**
 
 - 👯 I’m looking to collaborate on [Mytheresa Clone](https://chic-mooncake-91e805.netlify.app/)
-
-- 🤝 I’m looking for help with [Blinkit Clone](https://blink-it-by-arshad-gaurav-ayush-rohit-shubham.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://sahurohit.netlify.app/](https://sahurohit.netlify.app/)
 
