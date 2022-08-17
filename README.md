@@ -20,7 +20,7 @@
 <br />
   🌍 I’m based in Bhopal,Madhya-Pradesh
 <br/>
-   Visit my Portfolio: <a href="https://sahurohit.netlify.app/" target="_blank">Portfolio</a> for more details.
+  ⚡ Visit my Portfolio: <a href="https://sahurohit.netlify.app/" target="_blank">Portfolio</a> for more details.
  <br />
  * ✉️ You can contact me at [sahu86744@gmail.com](mailto:sahu86744@gmail.com)
 
