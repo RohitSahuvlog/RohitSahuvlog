@@ -11,18 +11,19 @@
 ⚡  Little bit more about me:
 <br />
 ⚗️  Though I hold Bachelor’s degree in Mechanical engineering,
-     I become a Full Stack (MERN) web developer.
+    <div> I become a Full Stack (MERN) web developer. </div>
 <br />
 🌱  I’m actively looking for opportunities.
 
 #### ⚡ One line that describes me best? ####
-
-  🌱 A hard working and enthusiastic person who loves to code.
+<br />
+🌱 A hard working and enthusiastic person who loves to code.
 <br />
   🌍 I’m based in Bhopal,Madhya-Pradesh
 <br/>
   ⚡ Visit my Portfolio: <a href="https://rohitmern.netlify.app/" target="_blank">Portfolio</a> for more details.
- ✉️ You can contact me at [sahu86744@gmail.com](mailto:sahu86744@gmail.com)
+  <div> ✉️ You can contact me at [sahu86744@gmail.com](mailto:sahu86744@gmail.com)
+</div>
 
 <br />
 
