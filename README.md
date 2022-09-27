@@ -15,14 +15,12 @@
 🌱  I’m actively looking for opportunities.
 
 #### ⚡ One line that describes me best? ####
-<br />
 🌱 A hard working and enthusiastic person who loves to code.
 <br />
   🌍 I’m based in Bhopal,Madhya-Pradesh
 <br/>
   ⚡ Visit my Portfolio: <a href="https://rohitmern.netlify.app/" target="_blank">Portfolio</a> for more details.
-  <div> ✉️ You can contact me at [sahu86744@gmail.com](mailto:sahu86744@gmail.com)
-</div>
+  <div> ✉️ You can contact me at [sahu86744@gmail.com](mailto:sahu86744@gmail.com)</div>
 
 <br />
 
