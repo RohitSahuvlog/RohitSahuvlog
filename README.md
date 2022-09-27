@@ -21,6 +21,7 @@
 <br/>
   ⚡ Visit my Portfolio: <a href="https://rohitmern.netlify.app/" target="_blank">Portfolio</a> for more details.
   <div> ✉️ You can contact me at [sahu86744@gmail.com](mailto:sahu86744@gmail.com)</div>
+  <a href="mailto:hu86744@gmail.com">hu86744@gmail.com</a>
 
 <br />
 
