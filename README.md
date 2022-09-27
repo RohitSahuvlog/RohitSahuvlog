@@ -12,7 +12,6 @@
 <br />
 ⚗️  Though I hold Bachelor’s degree in Mechanical engineering,
     <div>✨ I become a Full Stack (MERN) web developer. </div>
-<br />
 🌱  I’m actively looking for opportunities.
 
 #### ⚡ One line that describes me best? ####
