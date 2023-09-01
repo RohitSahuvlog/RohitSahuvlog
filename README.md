@@ -20,7 +20,7 @@
   🌍 I’m based in Bhopal,Madhya-Pradesh
 <br/>
   ⚡ Visit my Portfolio: <a href="https://rohitmern.netlify.app/" target="_blank">Portfolio</a> for more details.
-  <div> ✉️ You can contact me at  <a href="mailto:shu86744@gmail.com">shu86744@gmail.com</a></div>
+  <div> ✉️ You can contact me at  <a href="mailto:sahu86744@gmail.com">sahu86744@gmail.com</a></div>
 
 
 <br />
